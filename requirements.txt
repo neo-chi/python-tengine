@@ -1,0 +1,23 @@
+tox
+black
+isort
+pytest
+pytest-cov
+numpy
+matplotlib
+pandas
+mypy
+pydantic
+injector
+python-dotenv
+pynvim
+python-lsp-server[all]
+jedi
+ariadne
+click
+colorama
+progress
+sphinx
+beautifulsoup4
+lxml
+-e .

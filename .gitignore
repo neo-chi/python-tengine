@@ -1,0 +1,17 @@
+*.egg-info
+*.ipynb_checkpoints
+*.pyc
+*.pdf
+.env/
+.cache/
+.coverage/
+.project
+.pydevproject
+.settings
+/tengine/documentation/_build
+.mypy_cache
+.tox/
+/tmp*
+MANIFEST
+Untitled*.ipynv
+build
